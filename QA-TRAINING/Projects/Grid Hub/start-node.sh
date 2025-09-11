@@ -1,0 +1,1 @@
+java -jar selenium-server-4.18.1.jar node --hub http://localhost:4444 --port 7777
